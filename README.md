@@ -139,3 +139,147 @@ astra-safe-ai/
     ├── astra_safe_cover.png
     ├── screenshot_dashboard.png
     └── screenshot_analysis.png
+```
+## Example Use Cases
+
+### 1. Late-Night Commute
+
+A user is walking alone after work at night with low phone battery and notices suspicious behaviour nearby.
+
+Astra Safe can:
+
+- Detect multiple compounding risk factors
+- Classify the situation as elevated risk
+- Recommend pausing, moving to a staffed area, contacting a trusted person, and arranging safer transport
+
+### 2. Rideshare Mismatch
+
+A user’s rideshare number plate or driver identity does not match the app.
+
+Astra Safe can:
+
+- Identify this as a major safety signal
+- Classify the scenario as high or critical risk
+- Recommend not entering the vehicle and moving to a safer public area
+
+### 3. Online-to-Offline Meetup
+
+A person met online changes the location last minute to somewhere more private and pressures the user to come alone.
+
+Astra Safe can:
+
+- Detect coercive and isolating behaviour
+- Identify pattern-based risk
+- Recommend declining the change and prioritising public, visible environments
+
+## Why This Project Matters
+
+Astra Safe is intentionally built as more than a portfolio demo.
+
+It explores how AI can be used responsibly in a safety context:
+
+- To support judgement
+- To structure uncertainty
+- To surface risk indicators clearly
+- To encourage practical next-step decision-making
+
+It also reflects a broader principle:
+
+AI is most useful when it helps people think more clearly in high-friction moments.
+
+## Design Philosophy
+
+Astra Safe is designed around five principles:
+
+1. Calm over alarm
+
+The app should never feel chaotic or sensationalist.
+
+2. Structured over vague
+
+Outputs should be clear, reasoned, and explainable.
+
+3. Supportive over authoritative
+
+The system supports user decision-making rather than pretending to guarantee outcomes.
+
+4. Practical over abstract
+
+Recommendations should be immediately usable.
+
+5. Responsible by design
+
+The product includes clear boundaries and avoids overstating certainty.
+
+## Safety Disclaimer
+
+Astra Safe is a decision-support prototype for educational and product demonstration purposes.
+
+It:
+
+- Does not guarantee safety
+- Does not replace emergency services
+- Does not replace professional security support or local safeguarding resources
+
+If a user believes they are in immediate danger, they should contact local emergency services, venue security, transport staff, or a trusted person immediately.
+
+## Screenshots
+
+
+
+## Dashboard
+
+Risk Analysis Output
+
+App Overview
+
+What This Project Demonstrates
+
+## This project showcases:
+
+- Applied AI product thinking
+- Structured risk assessment design
+- Explainable decision-support systems
+- Human-centred safety tooling
+- Premium frontend presentation in Streamlit
+- Strong portfolio storytelling for AI, security, and intelligence roles
+
+## Recruiter / Hiring Manager Notes
+
+Astra Safe was built to demonstrate how AI can be applied to real-world safety and security problems in a thoughtful, operationally credible way.
+
+It reflects strengths in:
+
+- Python development
+- AI-assisted workflow design
+- Intelligence-style reasoning
+- Risk modelling
+- Product framing
+- User-centred systems thinking
+
+## Future Enhancements
+
+Planned next steps include:
+
+- Location-aware safety context
+- Check-in timer workflow
+- Trusted contact alert logic
+- Scenario history and trend analysis
+- Multilingual support
+- Richer explainability layer
+- Anonymised pattern insights across scenario types
+
+## Author
+
+Stefanie Versace
+
+If you're interested in AI, security, threat analysis, OSINT, or decision-support tools, feel free to connect.
+
+LinkedIn: www.linkedin.com/in/stefanie-versace-26766428a
+GitHub: https://github.com/stefanieversace
+
+## Final Note
+
+Astra Safe is built around a simple idea:
+
+Good technology should help people think more clearly when clarity matters most.
